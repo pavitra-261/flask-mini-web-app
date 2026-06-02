@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(
+        to right,
+        #00c6ff,
+        #0072ff
+    );
+    min-height: 100vh;
+} {
+    background-color: #f4f7fc;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.list-group-item {
+    border-radius: 8px;
+    margin-bottom: 10px;
+    transition: transform 0.2s;
+}
+
+.list-group-item:hover {
+    transform: scale(1.02);
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+.btn-success,
+.btn-primary {
+    font-weight: bold;
+}
+
+.alert {
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 700px;
+}
