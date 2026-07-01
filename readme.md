@@ -66,4 +66,4 @@ http://127.0.0.1:5000
 
 ## Author
 Maturi Naga venkata pavitra
-Developed using Python and Flask as a Mini Web Application Project.
+
